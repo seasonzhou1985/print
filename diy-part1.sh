@@ -15,4 +15,4 @@
 
 # Add a feed source
 sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-git clone https://github.com/Gr4ffy/lede-cups.git package/cups
+#git clone https://github.com/Gr4ffy/lede-cups.git package/cups
