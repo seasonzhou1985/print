@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/syb999/openwrt-19.07.1
+  REPO_URL: http://mirror.sjtu.edu.cn/openwrt/releases/packages-17.01/mipsel_24kc/
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
